@@ -1,2 +1,1 @@
-# bible_website
-思高圣经H5版本模板
+思高圣经，H5版本，克隆自wanyouzhenyuan.cn。
