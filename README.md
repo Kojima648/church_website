@@ -1,5 +1,5 @@
 ---
-typora-root-url: ./Documents\images
+
 ---
 
 为圣公教会定制的网站，采用WordPress建站。
@@ -16,60 +16,60 @@ typora-root-url: ./Documents\images
 
 可与公众关联，可转小程序，实现互通。
 
-![](/1.png)
+![1](images/1.png)
 
-![2](/2.png)
+![2](images/2.png)
 
-![3](/3.png)
+![3](images/3.png)
 
-![4](/4.png)
+![4](images/4.png)
 
-![5](/8.png)
+![5](images/8.png)
 
-![](/9.png)
+![6](images/9.png)
 
-![10](/10.png)
+![10](images/10.png)
 
-![11](/11.png)
+![11](images/11.png)
 
-![12](/12.png)
+![12](images/12.png)
 
-![13](/13.png)
+![13](images/13.png)
 
-![14](/14.png)
+![14](images/14.png)
 
-![15](/15.png)
+![15](images/15.png)
 
-![16](/16.png)
+![16](images/16.png)
 
-![17](/17.png)
+![17](images/17.png)
 
-![18](/18.png)
+![18](images/18.png)
 
-![19](/19.png)
+![19](images/19.png)
 
-![20](/20.png)
+![20](images/20.png)
 
-![21](/21.png)
+![21](images/21.png)
 
-![22](/22.png)
+![22](images/22.png)
 
-![23](/23.png)
+![23](images/23.png)
 
-![24](/24.png)
+![24](images/24.png)
 
-![25](/25.png)
+![25](images/25.png)
 
-![26](/26.png)
+![26](images/26.png)
 
-![27](/27.png)
+![27](images/27.png)
 
-![28](/28.png)
+![28](images/28.png)
 
-![29](/29.png)
+![29](images/29.png)
 
-![30](/30.png)
+![30](images/30.png)
 
-![31](/31.png)
+![31](images/31.png)
 
-![](/33.png)
+![32](images/33.png)
