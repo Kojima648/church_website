@@ -1,0 +1,41 @@
+div.pay {
+    clear: both;
+}
+
+#wxpay-btn {
+    background-color: #46a546;
+    display: block;
+    margin: 5px auto;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+#wxpay-btn>img {
+    height: 3em;
+    width: 3em;
+}
+
+.thumb p {
+    text-align: center;
+}
+
+.amount-input {
+    margin: 10px 0px;
+}
+
+.amount-input img {
+    max-height: 20px;
+}
+
+#wxpay-qrcode img {
+    margin: 0 auto;
+}
+
+#wxpay-tips {
+    text-align: center;
+}
+
+#wxpay-qrcode {
+    margin: 5px;
+}
